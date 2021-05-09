@@ -6,3 +6,5 @@ eureka:
       defaultZone: http://localhost:8082/eureka/
   instance:
     hostname: localhost
+
+centralized-key: centralizedValue
